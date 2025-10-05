@@ -5,9 +5,9 @@ using UnityEngine;
 public class SpriteShake : MonoBehaviour
 {
     // Step 1: make shakeAmount = 0.1f 
-    public float shakeAmount = 0.0f;   // how far it moves
-    // Step 1: make shakeAmount = 0.1f shakeSpeed = 25.0f
-    public float shakeSpeed = 0.0f;     // how fast it shakes
+    public float shakeAmount = 0.1f;   // how far it moves
+    // Step 2: make shakeSpeed = 25.0f
+    public float shakeSpeed = 25.0f;     // how fast it shakes
 
     private Vector3 originalPos;
     void Start()
