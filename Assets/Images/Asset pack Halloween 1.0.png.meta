@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: 53d0afb08f8974583b9ae9458b50cfcf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: big_pumpkin_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 171
+        width: 72
+        height: 69
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addc89f7fca044818863ae7ce23cabfc
+      internalID: 1860710355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 210
+        width: 26
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e305c6fd729a649fcbc171279b86b222
+      internalID: 1274508612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 210
+        width: 18
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc069c53755f4e4f8dc269f61b05e6f
+      internalID: 63099557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 32
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa438844f8bf463aa78e7283f5260c3
+      internalID: 552350813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 214
+        width: 21
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb01ad47ae9c421a9d38b52418d9337
+      internalID: 307229436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 214
+        width: 21
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39ff1cb31c964e0fbc214c4c4bf5721
+      internalID: -1922491861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 208
+        width: 22
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef7a8e51982a401f9895eb53cafe87d
+      internalID: -1190573703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 208
+        width: 22
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736099e3b69e4466da417087be65f51a
+      internalID: -1285416510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 183
+        width: 16
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab1354adc0394ad0b672e87ba0524d0
+      internalID: -1324875940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 183
+        width: 16
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f564d3abdfca420ab87b36d2277eab1
+      internalID: 133611929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 182
+        width: 21
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da564be2fa7c547cd97e7911ea272226
+      internalID: -947188039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 182
+        width: 21
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63af8f84aa7aa44ff989b767ff709c80
+      internalID: -1355859296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 176
+        width: 22
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f542bfeb9c34281a11ed803d3fc260
+      internalID: 2069534029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 176
+        width: 22
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47d115d84bac42da9fc83ee7a594aed
+      internalID: 1973159018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 149
+        width: 16
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd08a7e750394e26bcd1b26c218a6fc
+      internalID: -518934051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 150
+        width: 16
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14751ca19e1741569b10408e4e835e4
+      internalID: 96637683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 161
+        width: 32
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379c066c7f4d1461d877252b2dc2511c
+      internalID: 748914843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 150
+        width: 21
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ada209963da24d0694b3eb4b63d30e8
+      internalID: -509635095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 150
+        width: 21
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5185dc2db6c7c448ca5a29b592e85227
+      internalID: 1502590639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_19
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 144
+        width: 22
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2454fe82a17a04231a30aebdf152797a
+      internalID: -1159472654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 144
+        width: 22
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6492073abfef948f58540884537ebdca
+      internalID: -155425711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 72
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b4a7dc12541468aaea9693ee2b3bd4
+      internalID: -777233466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 145
+        width: 32
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abcc2ab7a97b424a81e67bd329fd7f9
+      internalID: -1668181990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 64
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf741a16fae844c3b469e6e7df5dce0
+      internalID: -968941481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 132
+        width: 10
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdb1e3c30a484621bf4731bf6631855
+      internalID: -900127040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 16
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9576e87009442d393fdccd86653cae
+      internalID: 1567565836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_26
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 118
+        width: 21
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f623b7d97f81a4032ab8529971126956
+      internalID: -1975972295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 118
+        width: 21
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03edf85eb67cd44078f3b2f2ee077358
+      internalID: 1485719446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_28
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 132
+        width: 10
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99abc04a971454f74a04ae7953d0b4cc
+      internalID: -462240067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 116
+        width: 10
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca3aed99d7d747e6945089aa7a8cb03
+      internalID: -1913305899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 113
+        width: 16
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf87c66076264bb7824dff23e1a9571
+      internalID: 1321495382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 116
+        width: 10
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f82071f7e03b496fb80c3ca64f9af47
+      internalID: 1954397940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 86
+        width: 22
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd710a4bb630948438684f891d7233bf
+      internalID: 206085710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 87
+        width: 20
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b11eae5a3174a7f938a4a9eb34d548
+      internalID: 657012955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 87
+        width: 20
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c62d6fa91c7a409dae66415d7dfc92c
+      internalID: -365019585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 97
+        width: 14
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863283effc5a644218767af06944438e
+      internalID: 735629188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 97
+        width: 14
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d370776072b74457b659d0d8562abb9
+      internalID: 577695972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 34
+        width: 24
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697e85289552b462c86976bb5d1be472
+      internalID: 1161467518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 34
+        width: 24
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8969a81d55d114c9d82cd00c364528d7
+      internalID: 1074747223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 53
+        width: 16
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6eb8a0b263164780a2138173c2ebad3
+      internalID: -947354816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_40
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 5
+        width: 80
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd54cf6bd38b4748be86f521e69db11
+      internalID: -101166940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_41
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 14
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ce7f2ceda4d4fa88f4948d8fa7ee68
+      internalID: -197772731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_42
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 48
+        width: 14
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f758b77947ce8403d8ed4b8eb25a4ab0
+      internalID: 410601205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 48
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392fb16e4754342f19d00de19f11f326
+      internalID: 621982151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 32
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4c748f57c25424a8168c5c124e4bdb
+      internalID: 1978196462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset pack Halloween 1.0_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 12
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84f97e276f0b4eaf8f4acf15a9c921a
+      internalID: -1116431558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Asset pack Halloween 1.0_1: 1274508612
+      Asset pack Halloween 1.0_10: -947188039
+      Asset pack Halloween 1.0_11: -1355859296
+      Asset pack Halloween 1.0_12: 2069534029
+      Asset pack Halloween 1.0_13: 1973159018
+      Asset pack Halloween 1.0_14: -518934051
+      Asset pack Halloween 1.0_15: 96637683
+      Asset pack Halloween 1.0_16: 748914843
+      Asset pack Halloween 1.0_17: -509635095
+      Asset pack Halloween 1.0_18: 1502590639
+      Asset pack Halloween 1.0_19: -1159472654
+      Asset pack Halloween 1.0_2: 63099557
+      Asset pack Halloween 1.0_20: -155425711
+      Asset pack Halloween 1.0_21: -777233466
+      Asset pack Halloween 1.0_22: -1668181990
+      Asset pack Halloween 1.0_23: -968941481
+      Asset pack Halloween 1.0_24: -900127040
+      Asset pack Halloween 1.0_25: 1567565836
+      Asset pack Halloween 1.0_26: -1975972295
+      Asset pack Halloween 1.0_27: 1485719446
+      Asset pack Halloween 1.0_28: -462240067
+      Asset pack Halloween 1.0_29: -1913305899
+      Asset pack Halloween 1.0_3: 552350813
+      Asset pack Halloween 1.0_30: 1321495382
+      Asset pack Halloween 1.0_31: 1954397940
+      Asset pack Halloween 1.0_32: 206085710
+      Asset pack Halloween 1.0_33: 657012955
+      Asset pack Halloween 1.0_34: -365019585
+      Asset pack Halloween 1.0_35: 735629188
+      Asset pack Halloween 1.0_36: 577695972
+      Asset pack Halloween 1.0_37: 1161467518
+      Asset pack Halloween 1.0_38: 1074747223
+      Asset pack Halloween 1.0_39: -947354816
+      Asset pack Halloween 1.0_4: 307229436
+      Asset pack Halloween 1.0_40: -101166940
+      Asset pack Halloween 1.0_41: -197772731
+      Asset pack Halloween 1.0_42: 410601205
+      Asset pack Halloween 1.0_43: 621982151
+      Asset pack Halloween 1.0_44: 1978196462
+      Asset pack Halloween 1.0_45: -1116431558
+      Asset pack Halloween 1.0_5: -1922491861
+      Asset pack Halloween 1.0_6: -1190573703
+      Asset pack Halloween 1.0_7: -1285416510
+      Asset pack Halloween 1.0_8: -1324875940
+      Asset pack Halloween 1.0_9: 133611929
+      big_pumpkin_1: 1860710355
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
